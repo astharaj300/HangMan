@@ -1,4 +1,4 @@
-package com.josh.hangman;
+package hangman;
 
 public class HangmanGameLauncher {
     public static void main(String[] args) {
