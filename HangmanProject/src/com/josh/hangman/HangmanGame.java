@@ -1,4 +1,4 @@
-package com.josh.hangman;
+package hangman;
 
 import java.util.Arrays;
 import java.util.Scanner;
